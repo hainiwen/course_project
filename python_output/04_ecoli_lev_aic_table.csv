@@ -1,0 +1,8 @@
+model,covariates,n_param,logLik,AIC,converged,dAIC
+M2_fq_90d+outpatient,"fq_90d, outpatient",6,-4959.73,9931.463,True,0.0
+M1_fq_90d,fq_90d,4,-4963.43,9934.863,True,3.4
+M3_all3,"fq_90d, outpatient, nh_90d",8,-4959.48,9934.952,True,3.489
+M2_fq_90d+nh_90d,"fq_90d, nh_90d",6,-4963.2,9938.392,True,6.929
+M1_outpatient,outpatient,4,-4981.23,9970.456,True,38.993
+M0 baseline,(none),2,-4984.15,9972.305,True,40.842
+M1_nh_90d,nh_90d,4,-4983.92,9975.834,False,44.371

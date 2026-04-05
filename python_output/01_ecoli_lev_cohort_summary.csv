@@ -1,0 +1,14 @@
+metric,value
+organism,ESCHERICHIA COLI
+antibiotic,Levofloxacin
+index_state,Susceptible
+n_patients,6230
+n_observations,19374
+median_followup_days,715.356
+q25_followup_days,215.665
+q75_followup_days,1749.645
+max_followup_days,5736.702
+n_obs_group_2,3587
+n_obs_group_3_5,2105
+n_obs_group_6_10,419
+n_obs_group_gt10,119

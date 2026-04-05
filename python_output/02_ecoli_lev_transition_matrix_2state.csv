@@ -1,0 +1,5 @@
+from_state_2,to_state_2,N,total,proportion,transition
+S,S,10315,11634,0.8866,S->S
+S,notS,1319,11634,0.1134,S->notS
+notS,S,385,1510,0.255,notS->S
+notS,notS,1125,1510,0.745,notS->notS

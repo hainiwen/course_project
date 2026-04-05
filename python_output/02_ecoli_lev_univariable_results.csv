@@ -1,0 +1,8 @@
+tier,covariate,variable,type,N,N_exposed_or_median,OR,CI_lo,CI_hi,p_value,note
+1,Prior FQ 90d,fq_90d,binary,11634,1790/11634,2.103,1.83,2.417,0.0,1 vs 0
+1,Days since last FQ,fq_days,continuous,1790,median=0,1.193,1.072,1.327,0.0012,OR per 1 SD
+1,Prior TMP-SMX 90d,tmx_90d,binary,11634,1206/11634,1.144,0.955,1.371,0.1429,1 vs 0
+1,Days since last TMP-SMX,tmx_days,continuous,1206,median=0,1.145,0.975,1.345,0.0988,OR per 1 SD
+2,Outpatient setting,outpatient,binary,11634,6829/11634,0.805,0.715,0.906,0.0003,1 vs 0
+3,ADI score,adi_score,continuous,9345,median=1,1.111,1.027,1.203,0.009,OR per 10 units
+3,Nursing home 90d,nh_90d,binary,11634,62/11634,3.23,1.854,5.627,0.0,1 vs 0

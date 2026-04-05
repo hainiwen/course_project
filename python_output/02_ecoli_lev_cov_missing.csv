@@ -1,0 +1,9 @@
+covariate,N_total,N_missing,pct_missing
+fq_90d,19374,0,0.0
+fq_days,19374,16644,85.9
+tmx_90d,19374,0,0.0
+tmx_days,19374,17440,90.0
+outpatient,19374,0,0.0
+adi_score,19374,3848,19.9
+adi_tertile,19374,3848,19.9
+nh_90d,19374,0,0.0

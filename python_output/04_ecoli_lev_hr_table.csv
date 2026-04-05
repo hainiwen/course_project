@@ -1,0 +1,5 @@
+covariate,transition,beta,HR,CI_lo,CI_hi
+fq_90d,S→notS,0.4889,1.631,1.294,2.054
+fq_90d,notS→S,-0.0325,0.968,0.745,1.257
+outpatient,S→notS,-0.1166,0.89,0.741,1.069
+outpatient,notS→S,0.0548,1.056,0.852,1.309

@@ -1,0 +1,5 @@
+covariate,N_total,N_exposed,pct_exposed,N_exposed_S2S,pct_S2S,N_exposed_S2notS,pct_S2notS
+fq_90d,11634,1790,15.4,1452,14.1,338,25.6
+tmx_90d,11634,1206,10.4,1054,10.2,152,11.5
+outpatient,11634,6829,58.7,6117,59.3,712,54.0
+nh_90d,11634,62,0.5,44,0.4,18,1.4
